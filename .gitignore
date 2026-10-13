@@ -6,3 +6,4 @@ __pycache__/
 *.pem
 inventory.ini
 .env
+.pytest_cache/
